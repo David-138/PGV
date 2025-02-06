@@ -1,0 +1,17 @@
+# Archivos de Unity a ignorar
+[Llibreria]/
+[Temp]/
+[Obj]/
+[Logs]/
+[UserSettings]/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.db
